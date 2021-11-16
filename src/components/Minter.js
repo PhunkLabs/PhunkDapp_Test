@@ -1,7 +1,7 @@
 import { useEffect, useState } from "react";
 import Web3 from "web3";
 import contract from "../contracts/contract.json";
-import Hero from "../assets/hero.png";
+import Hero from "../assets/phunkhero.png";
 
 const initialInfoState = {
   connected: false,

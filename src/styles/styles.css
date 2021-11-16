@@ -4,13 +4,13 @@
   --small-button-bg: #d85226;
   --small-button-active-bg: #646464;
   --button-text: #ffffff;
-  --card: #89d2f7;
+  --card: #c0dff5;
   --accountText: #ffffff;
   --statusText: #470068;
-  --bg-gradient_1: #C0DEF4;
-  --bg-gradient_2: #4073F2;
-  --gradient_1: #101E32;
-  --gradient_2: #4073F2;
+  --bg-gradient_1: #cae6f7;
+  --bg-gradient_2: #6a9cd0;
+  --gradient_1: #284364;
+  --gradient_2: #101e32;
   --gradient_3: #3a6fb9;
   --success: #24a13f;
   --warning: #d85226;
@@ -82,7 +82,7 @@ body {
 
 .card_header_image {
   position: absolute;
-  width: 120%;
+  width: 170%;
 }
 
 .card_body {
